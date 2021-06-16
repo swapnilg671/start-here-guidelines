@@ -1,6 +1,7 @@
 Guidelines on how this open source community works :)
 
 Read below to see how you can join an existing project or create your own.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## One rule of this community:
 
